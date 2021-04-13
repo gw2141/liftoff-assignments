@@ -7,12 +7,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My Pet Adoption Finder app will allow you to find Cats or Dogs up for adoption near you.
+The app will allow you to search for local Cats and Dogs based on your area code.
+You'll be able to save the pets your interested in and have a name generator if you wish to name them.
+Ultimately you'll be able to contact the animal shelters through this app. 
+I wanted to create this app after finding local adoptions search engines inefficient and hard to navigate.
 ### Features
-Include Features here
+User registration/login-User will create an account to login. Profiles will store "Favorites"
+Geographically Localized Adoption database API Search Engine-Your area code will identify local adoption shelters.
+Name Generator-Randomly assigns names from a word bank.
+Simple Interface-An uncluttered straight forward design that puts the animals front and center. 
+
 ### Technologies
-Include Technologies here
+Java
+Springboot
+Gradle
+MySQL
+ThymeLeaf
 ### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+-
+How to make a favorites function for each user.
+How to use and apply an API with geographic localization.
+To become comfortable with CSS and front end design.
+-
+
+### Project Trackero learn here
+https://trello.com/b/n9LbXQuy/petfinder
